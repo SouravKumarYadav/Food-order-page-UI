@@ -1,6 +1,6 @@
 # Food-order-page-UI
 
-![Restaurant Landing Page Preview]()
+![Food-order-page-UI Preview](https://github.com/SouravKumarYadav/Food-order-page-UI/blob/main/Food%20order%20page%20UI.png)
 
 > A delicious restaurant landing page with full-screen food imagery and compelling call-to-action
 
